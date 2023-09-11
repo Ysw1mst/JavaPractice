@@ -1,6 +1,5 @@
 package Day_01_Practice;
 
-import java.sql.SQLOutput;
 
 public class VarEx1 {
     public static void main(String[] args) {
